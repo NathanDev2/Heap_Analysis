@@ -1,10 +1,3 @@
-/*
-Nathan Darrett
-Dr. Amarasinghe
-CSCI 41
-21, November, 2023
-*/
-
 /* Purpose of this program is to Implement functions of a priority queue like structure using heap in an array/vector. It demonstrates the following...
 
     1) Insert and Deletion in a heap
@@ -263,4 +256,5 @@ cout << "Time Takened: " << fixed << setprecision(2) << static_cast<double>(endT
 cout << "Press any key to continue..." << endl;
 cin.ignore();
 return 0;
+
 }
