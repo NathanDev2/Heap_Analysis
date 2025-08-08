@@ -1,9 +1,3 @@
-/*
-Nathan Darrett
-Dr. Amarasinghe
-CSCI 41
-21, November, 2023
-*/
 
 /* Purpose of this program is to Implement functions of a priority queue like structure using heap in an Binary Tree. It demonstrates the following...
 
@@ -361,3 +355,4 @@ cin.ignore();
 
     return 0;
 }
+
